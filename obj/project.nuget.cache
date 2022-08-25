@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "tfeXXUxuVJO76Q2OFYA8qIImwR3cfS1e4A2pQ3H26JTilU++j13nYV9SKcAVn4H1a1njVYw2nP8N4a0O1vMGHQ==",
+  "success": true,
+  "projectFilePath": "/Users/sylwesterdawida/odata/odata/odata.csproj",
+  "expectedPackageFiles": [
+    "/Users/sylwesterdawida/.nuget/packages/microsoft.aspnetcore.odata/8.0.11/microsoft.aspnetcore.odata.8.0.11.nupkg.sha512",
+    "/Users/sylwesterdawida/.nuget/packages/microsoft.bcl.asyncinterfaces/5.0.0/microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "/Users/sylwesterdawida/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/sylwesterdawida/.nuget/packages/microsoft.odata.core/7.12.2/microsoft.odata.core.7.12.2.nupkg.sha512",
+    "/Users/sylwesterdawida/.nuget/packages/microsoft.odata.edm/7.12.2/microsoft.odata.edm.7.12.2.nupkg.sha512",
+    "/Users/sylwesterdawida/.nuget/packages/microsoft.odata.modelbuilder/1.0.8/microsoft.odata.modelbuilder.1.0.8.nupkg.sha512",
+    "/Users/sylwesterdawida/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/sylwesterdawida/.nuget/packages/microsoft.openapi.odata/1.0.9/microsoft.openapi.odata.1.0.9.nupkg.sha512",
+    "/Users/sylwesterdawida/.nuget/packages/microsoft.spatial/7.12.2/microsoft.spatial.7.12.2.nupkg.sha512",
+    "/Users/sylwesterdawida/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/sylwesterdawida/.nuget/packages/swashbuckle.aspnetcore.community.odata/0.0.1/swashbuckle.aspnetcore.community.odata.0.0.1.nupkg.sha512",
+    "/Users/sylwesterdawida/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/sylwesterdawida/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/sylwesterdawida/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/Users/sylwesterdawida/.nuget/packages/swashbuckle.odata/4.0.0-beta2/swashbuckle.odata.4.0.0-beta2.nupkg.sha512",
+    "/Users/sylwesterdawida/.nuget/packages/system.componentmodel.annotations/4.6.0/system.componentmodel.annotations.4.6.0.nupkg.sha512",
+    "/Users/sylwesterdawida/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "/Users/sylwesterdawida/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
+    "/Users/sylwesterdawida/.nuget/packages/system.text.json/4.6.0/system.text.json.4.6.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Swashbuckle.OData 4.0.0-beta2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Swashbuckle.OData",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
